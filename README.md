@@ -1,4 +1,4 @@
-# kubernetes-demo
+# Kubernetes Demo
 
-![kubernetes-demo](.images/sad-cloud.png)
+![kubernetes](.images/sad-cloud.png)
 
